@@ -36,6 +36,6 @@ Make sure Python 3+ is installed.
 ## 🔁 Reusability
 You can:
 - Change article link
-- Change language (en, pt-br, etc.)
+- Change language
 - Integrate in apps
 - Use for accessibility tools
