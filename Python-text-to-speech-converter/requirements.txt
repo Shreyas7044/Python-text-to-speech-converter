@@ -1,0 +1,6 @@
+newspaper3k
+gtts
+nltk
+beautifulsoup4
+lxml
+requests
