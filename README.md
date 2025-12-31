@@ -29,7 +29,7 @@ Using Python, Natural Language Processing, and Google Text-to-Speech, this proje
 Make sure Python 3+ is installed.
 
 ## 🖼 Output
-![Application Screenshot](Password-Generator-with-Python-and-Tkinter/screenshot.png)
+![Application Screenshot](Python-text-to-speech-converter/screenshot.png)
 
 ---
 
