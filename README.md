@@ -23,7 +23,7 @@ Using Python, Natural Language Processing, and Google Text-to-Speech, this proje
 
 ---
 
-## 📥 Installation & Setup
+## 📥 Installation
 
 ### 1️⃣ Install Python
 Make sure Python 3+ is installed.
